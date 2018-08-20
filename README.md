@@ -1,11 +1,11 @@
-## README
+# README
 
-# What is this?
+## What is this?
 
 This repository contains the Papyrus scripts, for Skyrim (and Skyrim SE), that aim at making an NPC tranform into another form, for example a Werewolf, when a certain condition is met (life below a certain threshold for example). 
 
 
-# Mods that I know use this script 
+## Mods that I know use this script 
 
  - Rust - Unleashed Beast by DividedByThe9s: https://www.nexusmods.com/skyrim/mods/80574 (old version of this script)
  - Liant -Mephala's Hand by DividedByThe9s: https://www.nexusmods.com/skyrim/mods/83923 
@@ -14,7 +14,7 @@ This repository contains the Papyrus scripts, for Skyrim (and Skyrim SE), that a
 
 The names of the scripts have been personnalised in order to prevent conflicts. 
  
-# How to use this
+## How to use this
 
 First, you need to edit the names OF the files, and the names IN the files. 
  - AUTHOR should be replaced with the mod author's name
