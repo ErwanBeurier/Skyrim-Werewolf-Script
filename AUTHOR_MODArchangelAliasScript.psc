@@ -1,6 +1,6 @@
-Scriptname AUTHOR_MODFormAliasScript Extends ReferenceAlias
+Scriptname AUTHOR_MODArchangelAliasScript Extends ReferenceAlias
 {Part of AUTHOR' mod: MOD Follower. Made by StCooler.
-Attach it to the OtherForm alias. Enables to switch from their other form to their human form after the end of the battle.}
+Attach it to the Archangel alias. Enables to switch from their other form to their human form after the end of the battle.}
 
 
 Spell Property HealSpell Auto
@@ -26,7 +26,7 @@ EndEvent
 
 
 Event OnEnterBleedout()
-	; Strangely the OtherForm tends to be stuck in "bleeding out" state. 
+	; Strangely the Angel tends to be stuck in "bleeding out" state. 
 	; This aims at correcting this.
 	Utility.Wait(5)
 	HealSpell.Cast(SelfRef, SelfRef)
