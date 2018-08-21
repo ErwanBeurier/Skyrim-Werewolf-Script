@@ -2,19 +2,18 @@
 
 ## What is this?
 
-This repository contains the Papyrus scripts, for Skyrim (and Skyrim SE), that aim at making an NPC tranform into another form, for example a Werewolf, when a certain condition is met (life below a certain threshold for example). 
+This repository contains the Papyrus scripts, for Skyrim (and Skyrim SE), that aim at making an NPC tranform into a first form (Angel), and second form (Archangel), when a certain condition is met (life below a certain threshold for example). 
 
 
 ## Mods that I know use this script 
 
- - Rust - Unleashed Beast by DividedByThe9s: https://www.nexusmods.com/skyrim/mods/80574 (old version of this script)
- - Liant -Mephala's Hand by DividedByThe9s: https://www.nexusmods.com/skyrim/mods/83923 
- - Myst's Hawk and Noble Savage Werewolves Follower b4 by netbadass: https://www.nexusmods.com/skyrimspecialedition/mods/19032
- - Succubus Alessa SSE b3 by netbadass: https://www.nexusmods.com/skyrimspecialedition/mods/18620
+None yet.
 
-The names of the scripts have been personnalised in order to prevent conflicts. 
  
 ## How to use this
+
+
+[TO BE UPDATED] 
 
 First, you need to edit the names OF the files, and the names IN the files. 
  - AUTHOR should be replaced with the mod author's name
